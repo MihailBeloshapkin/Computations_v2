@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "DqZqbwi9qDzFTyS6oWDfxOhHohVGtiFpJL1dKKzLAUIr+l5r1ATnF8srfHew3ZucTn5ZNX0VPP9VxmZciRKwuw==",
+  "success": true,
+  "projectFilePath": "/home/mihail/source/CM/l1/l1.fsproj",
+  "expectedPackageFiles": [
+    "/home/mihail/.nuget/packages/fsalg/0.5.13/fsalg.0.5.13.nupkg.sha512",
+    "/home/mihail/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'FsAlg 0.5.13' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "FsAlg",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
